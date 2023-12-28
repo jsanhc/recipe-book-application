@@ -1,0 +1,36 @@
+{
+  "name": "Bittman Chinese Chicken With Bok Choy",
+  "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "portions": 10,
+  "prepare_time": 2,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": 2,
+      "unit": "units"
+    },
+    {
+      "name": "Bok Choy",
+      "amount": 1,
+      "unit": "units"
+    },
+    {
+      "name": "Sauce",
+      "amount": 1,
+      "unit": "deciliters"
+    }
+  ],
+  "members": [
+    {
+      "member": "GRANDSON"
+    },
+    {
+      "member": "HUSBAND"
+    },
+    {
+      "member": "DAUGHTER"
+    }
+  ],
+  "instructions": "Make sauce. Steam bok choy and chicken. Carry on steaming. Pour sauce over."
+}
