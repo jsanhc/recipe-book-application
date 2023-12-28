@@ -1,9 +1,16 @@
 # Grandma recipes application
 
-- Developer Version 1.0.0-SNAPSHOT
-  - First solution approach
+> This Application has been developed following a specification document provided by a company as technical test.
+
+> The specification did not provide any application skeleton or structure base.
+
+> The specification did not provide any suggestion about which technologies/frameworks must be used.
+
+> This application has been build totally from scratch with the idea to provide an approach how use different java technologies to build an auto-contained microservice.
+
 
 ## Motivation
+
 An energetic grandmother, who really enjoys cooking, specially for her family, due to personal reasons,
 she can't update her recipe collection manually anymore,
 This is an electronic recipe book 'eRecipe' to easily manage all the precious family heirlooms.
