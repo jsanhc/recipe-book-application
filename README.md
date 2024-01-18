@@ -17,7 +17,7 @@ This is an electronic recipe book 'eRecipe' to easily manage all the precious fa
 
 - [specification document](specs/README.md)
 
-## Built by General rules
+## Built following General rules
 
 - SOLID principles
 - TDD
